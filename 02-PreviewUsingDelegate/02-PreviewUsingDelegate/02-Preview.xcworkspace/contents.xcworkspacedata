@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../02-PreviewUsingSegue/02-PreviewUsingSegue.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:02-PreviewUsingDelegate"
+      name = "02-PreviewUsingDelegate">
+      <Group
+         location = "group:02-PreviewUsingDelegate"
+         name = "02-PreviewUsingDelegate">
+         <FileRef
+            location = "group:_2_PreviewUsingDelegate.xcdatamodeld">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.m">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:FirstViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:FirstViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:PreviewDeatilModel.h">
+         </FileRef>
+         <FileRef
+            location = "group:PreviewDeatilModel.m">
+         </FileRef>
+         <FileRef
+            location = "group:SecondViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:SecondViewController.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:02-PreviewUsingDelegate.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:02-PreviewUsingDelegateTests"
+         name = "02-PreviewUsingDelegateTests">
+         <FileRef
+            location = "group:_2_PreviewUsingDelegateTests.m">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:02-PreviewUsingDelegateUITests"
+         name = "02-PreviewUsingDelegateUITests">
+         <FileRef
+            location = "group:_2_PreviewUsingDelegateUITests.m">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>

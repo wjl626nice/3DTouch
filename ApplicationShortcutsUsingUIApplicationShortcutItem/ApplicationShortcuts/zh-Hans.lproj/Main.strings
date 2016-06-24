@@ -1,0 +1,30 @@
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "0Qq-Fe-aiz"; */
+"0Qq-Fe-aiz.placeholder" = "Title";
+
+/* Class = "UITableViewController"; title = "Third View Controller"; ObjectID = "0nb-dB-Thb"; */
+"0nb-dB-Thb.title" = "Third View Controller";
+
+/* Class = "UITableViewSection"; headerTitle = "TITLE"; ObjectID = "Akh-wo-mZh"; */
+"Akh-wo-mZh.headerTitle" = "TITLE";
+
+/* Class = "UITableViewSection"; headerTitle = "SUBTITLE"; ObjectID = "Eig-AM-ryd"; */
+"Eig-AM-ryd.headerTitle" = "SUBTITLE";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "SOV-FH-uE9"; */
+"SOV-FH-uE9.placeholder" = "Title";
+
+/* Class = "UITableViewSection"; headerTitle = "ICON"; ObjectID = "Sbn-Ds-ZUw"; */
+"Sbn-Ds-ZUw.headerTitle" = "ICON";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "Wg1-Gx-Nzw"; */
+"Wg1-Gx-Nzw.title" = "Cancel";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "bQL-nM-M0m"; */
+"bQL-nM-M0m.text" = "Subtitle";
+
+/* Class = "UINavigationItem"; title = "Shortcuts"; ObjectID = "ogi-vv-V8e"; */
+"ogi-vv-V8e.title" = "Shortcuts";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "v39-LU-kIp"; */
+"v39-LU-kIp.text" = "Title";
